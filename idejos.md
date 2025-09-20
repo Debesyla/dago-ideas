@@ -5,7 +5,6 @@
 - AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
 - klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio
 - nemokamos knygos / "knygnešiai" creative commons viešinimas internetuos
-- žvejų strava - kokio dydžio pagavau, kiek užtrukau, etc
 - Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
 - anti-nemokamas renginys: įeiti nemokamai, bet išeiti gali tik jei kažką renginyje nusiperki
 - support servisas, kai AI streikuoja/neveikia – fallback botams
@@ -112,6 +111,7 @@
 - green cafe appsas, principu "kokios dar kavos nesi bandęs? -> grid, pildai completionist visas įmanomas variacijas"
 - kerpi per daug nago: appsas, painstruktuot kaip teisingai kirptis nagus
 - interaktyvus 3d/vr žaidimas, kur kiekvienas žaidėjas yra aktorius spektaklyje, interaktyvus
+- žvejų strava - kokio dydžio pagavau, kiek užtrukau, etc
 - dronas-kurmis: dronas, bet automatiškai važiuoja ir tikrina vamzdžius, oro vėdinimo takus, ar su jais viskas OK. Kamera ant ratukų, bet dar su įrankiais, kad nereikėtų priežiūros daug
 - Satellite kiek namų šiferis, kiek saulės elektrinės
 - fizinis timetrackeris: kaip tv pultelis, paspaudi ką veiki, seka tavo laiką fizinėje erdvėje. nereikia atidarinėti telefono (ir blaškyti save). mygtukai reprogramable, jei nesinori default
