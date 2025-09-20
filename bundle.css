@@ -66,9 +66,10 @@ a, * {
 body {
   background: #222;
   color: #FFBF00;
-  margin: 0 auto;
-  padding: 20px;
+  margin: 0 auto 0 0;
+  padding: 3em 1.5em 6em;
   font-family: monospace, "Courier New", Courier, sans-serif;
+  max-width: 75ch;
 }
 
 a {
@@ -78,14 +79,18 @@ a:hover, a:focus {
   text-decoration-style: dashed;
 }
 
-ul {
+ul, ol {
   padding-left: 1.25em;
 }
-ul li + li {
-  margin-top: 0.5em;
+ul li + li, ol li + li {
+  margin-top: 0.75em;
 }
-ul li::marker {
-  color: #FFBF00;
+ul li::marker, ol li::marker {
+  color: rgba(255, 191, 0, 0.325);
+}
+
+ol li::marker {
+  font-size: 0.75em;
 }
 
 ::selection {
@@ -97,11 +102,12 @@ ul li::marker {
 #content > * + * {
   margin-top: 1em;
 }
-#content > ul {
-  column-gap: 2.5em;
+#content > blockquote {
+  margin-bottom: 2em;
 }
-@media screen and (min-width: 1024px) {
-  #content > ul {
-    column-count: 2;
-  }
+#content > ul {
+  list-style-type: decimal;
+}
+#content > ul li::marker {
+  font-size: 0.75em;
 }
