@@ -1,9 +1,9 @@
-- telefonų p2p ryšys (nors pala, ar nėra dar? bluetooth, radio signal?)
+- Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
+- Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
 - vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) -- automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą
-- pereiti šriftų kūrybos kursus ir sukurti savo font
+- “Blet, neužsiveda mašina” -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
 - AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
 - klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio
-- Lt vaizdo kameros, ne kiniškos
 - nemokamos knygos / "knygnešiai" creative commons viešinimas internetuos
 - žvejų strava - kokio dydžio pagavau, kiek užtrukau, etc
 - Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
@@ -56,6 +56,7 @@
 - rivilė namams: sandėlio, daiktų duombazė asmeniniui turtui, nepamiršt ką turi namie ir ką planavai pirkti
 - augalų atgaivinimo servisas: paimsim augalą, atgaivinsim, grąžinsim
 - kūrybos licenzijos: infoprojektas kokios yra, kuo skiriasi, kokios ribos, kokią imti naujam tavo projektui
+- telefonų p2p ryšys (nors pala, ar nėra dar? bluetooth, radio signal?)
 - comics generator iš no-copyright seno turinio
 - Dronas - tikrintojas: paleidi, jis skrenda aplink namą ir fiksuoja statybos trūkumus, įtrūkimus. Vaizdu, sonaru, thermal, infrared, radiosignalai. Lengvas būdas patikrinti ar su namu (ypač stogu) nėra rimtų statybos bėdų
 - brainstorming / idea generation metodų apžvalgos
@@ -68,8 +69,6 @@
 - kinetic typography generatorius
 - lietuviškų portfolio puslapių sąrašas / apžvalga
 - demencija katinuose: pasirodo katinai (ir šunys) irgi turi senatvinius marazmus - infoprojektas pastebėti tai, padėti katinui/šuniui oriai pasenti, suprasti kodėl jis pradeda miauksėti belekada, šika ne į vietą
-- Seimo procesų atvaizdavimas tvarkingiau, aiškiau, vizualiau
-- Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM ar panašiai
 - twitch/youtube plugin - "ką žiūri / žiūrėjo tavo draugai?" arba "watch together"
 - webcam -> objektų monitoringas -> sekam kas vyksta gatvėje, lauke, praeivių, dviratininkų ir mašinų nesudėtinga statistika
 - faradėjaus narvas telefonui: išjungimas VISŲ ryšių, visiškai, net priimančių
@@ -82,6 +81,7 @@
 - kasko draudimas, bet dronams ?? civilinis?
 - operacinė sistema: paverčia senus mobilius įrenginius mazgais globaliam tinklui anoniminei interneto prieigai
 - kalbėk kaip pletkai.net discord bot
+- pereiti šriftų kūrybos kursus ir sukurti savo font
 - idea-dump soc tinklas, anonimiškai supilti savo kūrybines ir verslo idėjas, tikintis, kad kam bus naudinga
 - artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui
 - kursas, UX
@@ -138,8 +138,9 @@
 - shit monitor: kodėl vis dar nėra išmanaus tualeto, matuojančio išmatas? gi matosi ir mitybos trūkumai, ir šiaip... šlykštu, bet vartotojui naudinga? gal? reiktų pasikonsultuot su sveikatos specialistais
 - api zmogus.lt ale generuoja tikrus asmenis, ale, duomenims pildyti
 - tvarumas mokiniams: interaktyvi programa eco mąstymui kurti
+- Lt vaizdo kameros, ne kiniškos
 - ai scrapper buster: fake data generatorius, užspaminti X kalbos turinį fake nesąmonėm, kad AI įrankiai negalėtų pasitikėti tos kalbos turiniu
-- paštomatų kainų palyginimas, dynamic, atsinaujinantis
+- 
 - asmeninis CAO (aquisitions): to-buy listas, daiktų, kuriuos norėjai įsigyti, kad nepamirštum nuėjęs iki parduotuvės ar pamatęs eshope
 - GPS ping emergency radio --- koks minimaliausias įmanomas variantas, su mažiausiai elektros? saulės energija? prakaito druska?
 - kur pasukote? asmeninis gps app, rodo į kurią pusę pasukote, kur kiek žingsnių ėjote - nepasiklysti pastate, atsekti kur eita, jei kažkas pamestas
@@ -164,7 +165,7 @@
 - povandeniniai dronai: automatinis jūros dugno skenavimas ir stebėjimas
 - share to device, bet tarp visų - kažkas panašaus į IFTTT
 - finansinių anomalijų aptikimas: duodi banko išklotinę -> patikrinama kam išleidi daug daugiau nei vidutinis asmuo
-- Blet, neužsiveda mašina -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
+- paštomatų kainų palyginimas, dynamic, atsinaujinantis
 - auto/moto greičio kontrolės sistema: garažams ir prekybos centrams, su jutikliais, pridavimu policijai
 - investment portfolio analyzer: duodi duomenis ką turi investicijose, tau pasako kokia tavo bendra rizika ir kur dar galėtum investuot, kad būtų max diversifikacija
 - ką skaityti vaikui: rekomendacijos kokią knygą skaityti X amžiaus vaikui
