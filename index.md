@@ -1,6 +1,9 @@
 ---
 layout: base.html
 ---
-# My Ideas
 
-{% include "idejos.md" %}
+# /ideas
+
+> **Pastaba:** Įkvėpta [aboutideasnow.com/about](https://aboutideasnow.com/about)
+
+{% include 'idejos.md' %}

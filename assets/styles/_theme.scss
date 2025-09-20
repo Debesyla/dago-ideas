@@ -1,0 +1,53 @@
+@use "assets/styles/variables" as *;
+
+/* dago.lt */
+body {
+  background: $black;
+  color: $theme;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: monospace, 'Courier New', Courier, sans-serif;
+}
+
+a {
+  text-underline-offset: 0.25em;
+
+  &:hover,
+  &:focus {
+    text-decoration-style: dashed;
+  }
+}
+
+ul {
+  padding-left: 1.25em;
+
+  li {
+    & + li {
+      margin-top: 0.5em;
+    }
+
+    &::marker {
+      color: $theme;
+    }
+  }
+}
+
+::selection {
+  background: $theme;
+  color: $black;
+}
+
+/* content */
+#content {
+  & > * + * {
+    margin-top: 1em;
+  }
+
+  & > ul {
+    column-gap: 2.5em;
+
+    @include desktop {
+      column-count: 2;
+    }
+  }
+}

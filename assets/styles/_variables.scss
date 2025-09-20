@@ -1,0 +1,8 @@
+$black: #222;
+$theme: #FFBF00;
+
+@mixin desktop {
+    @media screen and (min-width: 1024px) {
+        @content;
+    }
+}
