@@ -140,7 +140,6 @@
 - tvarumas mokiniams: interaktyvi programa eco mąstymui kurti
 - Lt vaizdo kameros, ne kiniškos
 - ai scrapper buster: fake data generatorius, užspaminti X kalbos turinį fake nesąmonėm, kad AI įrankiai negalėtų pasitikėti tos kalbos turiniu
-- 
 - asmeninis CAO (aquisitions): to-buy listas, daiktų, kuriuos norėjai įsigyti, kad nepamirštum nuėjęs iki parduotuvės ar pamatęs eshope
 - GPS ping emergency radio --- koks minimaliausias įmanomas variantas, su mažiausiai elektros? saulės energija? prakaito druska?
 - kur pasukote? asmeninis gps app, rodo į kurią pusę pasukote, kur kiek žingsnių ėjote - nepasiklysti pastate, atsekti kur eita, jei kažkas pamestas
@@ -169,3 +168,4 @@
 - auto/moto greičio kontrolės sistema: garažams ir prekybos centrams, su jutikliais, pridavimu policijai
 - investment portfolio analyzer: duodi duomenis ką turi investicijose, tau pasako kokia tavo bendra rizika ir kur dar galėtum investuot, kad būtų max diversifikacija
 - ką skaityti vaikui: rekomendacijos kokią knygą skaityti X amžiaus vaikui
+- “pažink kaimyną”: appsas/žaidimas su žemėlapiais, generated portretais ir informacija – užrašyt ką žinom apie X asmenį, kad būtų galima lengviau prisiminti su kuo gyveni / dirbi — taip pat galėtų būt shareable su kitu
