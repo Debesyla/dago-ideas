@@ -1,0 +1,170 @@
+- telefonų p2p ryšys (nors pala, ar nėra dar? bluetooth, radio signal?)
+- vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) -- automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą
+- pereiti šriftų kūrybos kursus ir sukurti savo font
+- AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
+- klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio
+- Lt vaizdo kameros, ne kiniškos
+- nemokamos knygos / "knygnešiai" creative commons viešinimas internetuos
+- žvejų strava - kokio dydžio pagavau, kiek užtrukau, etc
+- Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
+- anti-nemokamas renginys: įeiti nemokamai, bet išeiti gali tik jei kažką renginyje nusiperki
+- support servisas, kai AI streikuoja/neveikia – fallback botams
+- lietuviškų web statistika: turim 300k domenų -> scan visus -> data kokius tvs naudoja, kiek dideli sitemap, kada naujinta, kokia įmonė, kam skirtas web
+- AI patyčios: duodi fb/linkedin postą ir jis iš tavęs išsityčioja, randa kalbos / logikos / skambesio bėdų, kad galėtum pasitaisyti prieš leidžiant --- arba iš vis sako "geriau neleisk šito, nes gaidys yr, sugalvok ką kito"
+- saugumo kameros butams "babulė alert": notice, jei nepažįstamas veidas, jei nepažįstama mašina
+- ramink bazarą - ai klauso diskusijos/pokalbio, ir kai kažkas įsijaučia, pradeda pypsėt, kad vsio, emocinis krūvis per didelis, raminamės
+- naminio alaus / vyno gaminimo appsas, step by step
+- LR rinkimų rezultatų atvaizdavimas aiškiau, live results (be reload), žemėlapis ir various dash iš karto
+- kelių kokybės tikrinimo solar robotukas-dronas
+- mačiau mešką! alert map meškoms, dronams
+- EU neįgalumo direktyvos atitikimo tikrintuvas web
+- Trumpi feature parodantys video kainų puslapyje
+- rent-a-valodia: servisas, kuris suorganizuoja chaltūrčiką patvarkyt kažką namie, ūkyje, prisukt, pakabint - nereikia aiškintis su skirtingais
+- pagal numerius mašinos pranešti kitam vairuotojui, kad nedega jo lempos ar panašiai - ne bauda, ne policija, tiesiog asmeninis notice?
+- savitarnos robotukas: nebrangiems produktams - stovi už stendo, atsako į klausimus apie produktą, parodo kur yra susimokėjimo dėžutė (filmuoja, jei kas vagia)
+- asmeninių sveikatos duomenų rinka: kaip vartotojas, gali PARDUOTI savo duomenis sveikatos informacijos agregatoriams/vartotojams/tyrėjams
+- prižiūrim neprižiūrėtą NT servisas - investicinio turto minimali priežiūra
+- UI skin sync, tarp įrenginių
+- tavo vaikas šiandien: siunčia tėvams kasdienę mokinio apžvalgą (tvarkaraštis, pastabos, pranešimai, gal livecam data?)
+- windows 95 themed portfolio
+- Tėvų match - būsimi tėvai sujungti su metais "vyresniais" tėvais (parduoti, atiduoti daiktus) + auklių sharing, pigiau
+- ligoninės lovos: šildančios, šaldančios, masažuojančios. marketing + funkcionalumo galimybė
+- vibes monitor: seka žiniasklaidą, feisbuką ir reditą (?), twiterį/threadsus ir žiūri bendrą visuomenės nuotaiką
+- dizaino / reklamos firmų sąrašas, žemėlapis (arba kitos srities)
+- Garsų gatvėje analyser
+- saugumo kamera iš seno telefono: naudojam tik vaizdo kamerą -> vaizdą įrašom -> autoištrynimas (visa kita off, dėl performance)
+- sporto prekių nuoma: slidinėjimo įranga, elipsiniai ir bėgimo aparatai -- nes vis vien naudojame tik kokį mėnesį, tai kam pirkt? nuomuok!
+- infosec žaidimas (puolimo ir gynybos etapai) --- edukacinis, gerinti saugumą, mažinti informacijos nutekėjimą
+- darbo paieškos portalas su žemėlapiu - kaip aruodas NT
+- Skaitmeninių portretų kūrimo paslauga - custom art/dizainai (nors berods yra kas ale simpsonų stilium pakuria..? bet čia su spauda ir atsiuntimu)
+- cloud torrents: atsisiųsti torrent į remote vietą (gdrive, dropbox ir pan.)
+- gmail notification sound jei ateina laiškas iš X siuntėjo
+- #100naujųDalykųKasdien appsas
+- kapų priežiūros servisas
+- Važiuok dviračių žiemą
+- android apk decompiler -> compiler, editorius redaguoti appsus? išvis ar įmanoma?
+- sattelite nelegalaus NT detectorius / gamtos pažeidimų detektorius / per arti pakrantės detektorius
+- AI faktų rinkėjas - renka argumentus, suveda į vieną "atskaitos įrašą" ir atnaujina
+- Rūkyk balkone kampanija
+- medkirtys-robotas: lipa medžiu, pasisuka pjūklas, nupjauna šakas. nereikia niekam lipt, užtenka prie kamieno apačioje nustatyt ir nugenės šakas ir patį stuobrį
+- Interneto archyvas, lietuviško web
+- kursas, web programavimo pagrindai (kaip ieškoti informacijos ir kaip bandyti dalykus paprastai)
+- Lietuvos tarmių mokymosi appsas
+- “Ką daryti senstant?” gidas/appsas/programa su planu ką daryti kiekvienais gyvenimo metais, kad pasenti oriai – sveikata, kūnas, draugai, hobiai
+- darkmode generator: padaryt darkmode nuotraukas (baltas fonas į juodą), video
+- verslo nuotaikų tyrimai: verslo savininkų apklausa apie jų lūkesčius (ar tikrai ši vasara palangos versininkams...)
+- rivilė namams: sandėlio, daiktų duombazė asmeniniui turtui, nepamiršt ką turi namie ir ką planavai pirkti
+- augalų atgaivinimo servisas: paimsim augalą, atgaivinsim, grąžinsim
+- kūrybos licenzijos: infoprojektas kokios yra, kuo skiriasi, kokios ribos, kokią imti naujam tavo projektui
+- comics generator iš no-copyright seno turinio
+- Dronas - tikrintojas: paleidi, jis skrenda aplink namą ir fiksuoja statybos trūkumus, įtrūkimus. Vaizdu, sonaru, thermal, infrared, radiosignalai. Lengvas būdas patikrinti ar su namu (ypač stogu) nėra rimtų statybos bėdų
+- brainstorming / idea generation metodų apžvalgos
+- vertinu viską: reviews belekam, kam tik norisi
+- idejos.dago.lt public ideas list, in case someone will find use of it
+- EU "ar alga lygi visoms lytims / žmonėms" direktyvos ataskaitų rengimas automatiškai (AI)
+- Lietuvos bibliotekų duomenų open decentralizacija, just in case something happens
+- produktyvumo sistemų apžvalgos
+- Nuotolinis shoperis iš second-hand - paieška, nupirkimas, siuntimas. Pasakai ko ieškai, tau randa
+- kinetic typography generatorius
+- lietuviškų portfolio puslapių sąrašas / apžvalga
+- demencija katinuose: pasirodo katinai (ir šunys) irgi turi senatvinius marazmus - infoprojektas pastebėti tai, padėti katinui/šuniui oriai pasenti, suprasti kodėl jis pradeda miauksėti belekada, šika ne į vietą
+- Seimo procesų atvaizdavimas tvarkingiau, aiškiau, vizualiau
+- Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM ar panašiai
+- twitch/youtube plugin - "ką žiūri / žiūrėjo tavo draugai?" arba "watch together"
+- webcam -> objektų monitoringas -> sekam kas vyksta gatvėje, lauke, praeivių, dviratininkų ir mašinų nesudėtinga statistika
+- faradėjaus narvas telefonui: išjungimas VISŲ ryšių, visiškai, net priimančių
+- kickstarteris, bet investoriams: p2p projektų investavimas, su numatyta grąža
+- kaip nuhakinti tavo ex: skaitmeninio raštingumo / saugumo / anti-phising mokymai, kad tavo paskyros būtų sunkiau nulaužiamos
+- bookswap populiariausios knygos, labiausiai ieškomos knygos
+- emergency pagalbos servisas diedukams - skambinti belekada, prilėksim
+- apklausa.lt scrapping, duomenų analizė
+- šuolis be virvės - tave pagauna tinklas (ar... įmanoma??)
+- kasko draudimas, bet dronams ?? civilinis?
+- operacinė sistema: paverčia senus mobilius įrenginius mazgais globaliam tinklui anoniminei interneto prieigai
+- kalbėk kaip pletkai.net discord bot
+- idea-dump soc tinklas, anonimiškai supilti savo kūrybines ir verslo idėjas, tikintis, kad kam bus naudinga
+- artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui
+- kursas, UX
+- meetting summary / notes - autogenerate (čiuju jau chatgpt gali? jei ne, kokie trūkumai?)
+- mokykis mokytis: infoprojektas mokymosi sugebėjimo gerinimui (nes kuo geriau moki mokytis, tuo greičiau mokaisi? tim ferris?)
+- shared to-dos: darbai, bet ne tau, o bendruomenei (šeimoje, tarp kaimynų)
+- dronų lenktynės / dakaras
+- hostbox - portable mini serveris, kurį būtų galima "netyčia" pamiršti įjungtą kavinėje, sandėlyje, kažkur kitur. Vagia elektrą ir interneto ryšį iš vietos, užkraunamas web, vajei, neaišku kas -- anonymous hosting
+- juodoji dėžė dviračiams ir paspirtukams (naujos mašinos jau turi)
+- būdas pakeisti IMEI ir kitus įrangos identifikatorius?
+- mini vieno kasnio šakotukai
+- startup mentorship: idialogue, bet startuolių įmonėms, mentoriauja patyrę arba investoriai
+- sveikatos predictor: pagal tavo sveikatos būklę (temp, pulsą, kitus išmanius duomenis iš tavo fitbitų ir pulsettų) -> predictina kada tikėtina sirgsi
+- išeik iš feisbuko: tavo page / profile turinio scraperis -> atrenka info, kuri nėra pasenusi/laikina -> padeda perkelti į asmeninį blogą arba kitą platformą. Atitinkamai išeit iš kitų platformų?
+- degalai atpigo: vizual marketingo projektas, parodyt, kad degalų kainos dabar net mažesnės nei buvo prieš eurą
+- AI distilled bible tips / stories, paremta input turiniu – "ką jėzus pasakytų" (muhamedas? vedos?)
+- predictive wolt/bolt - push notification, pagal įpročius, iš karto pasiūlo, kad šiandien dienos pietūs X kontoroj patiks
+- vizualus vestuvių planeris: kur kas stovės, pro kur vyks procesija, kur susodinti bus...?
+- nemokamas chlamas: free mėginukai, infoturinys Lietuvoje, marketingui
+- lietuviškos reklamos agentūros, svetainės
+- 15 min miestai: kodėl tai gerai (vatnik go away)
+- žmonių žemėlapis: naudojant FB api (???? jei įmanoma ???) sudaro žemėlapį, kas su kuo tavo aplinkoje yra susiję, ir kas yra tie "konektoriai", jungiantys daugiausiai žmonių ??
+- chazz stilium: miesto rajonų skonių čipsai (naujanai, paupys…)
+- Kalbėjimo treneris: duodi savo MS teams ar viešo kalbėjimo įrašą, tau pataria ką galėtum/turėtum kalbėti geriau
+- elektriniai vienkartiniai veipai turi chipus ir batarkes - jų panaudojimas? mikrotinklui? battery packui?
+- startkickeris: turi idėją ir finansavimą? dabar priversim tai įgyvendinti (išvengiam pabėgimo)
+- wordpress to laravel migrator
+- green cafe appsas, principu "kokios dar kavos nesi bandęs? -> grid, pildai completionist visas įmanomas variacijas"
+- kerpi per daug nago: appsas, painstruktuot kaip teisingai kirptis nagus
+- interaktyvus 3d/vr žaidimas, kur kiekvienas žaidėjas yra aktorius spektaklyje, interaktyvus
+- dronas-kurmis: dronas, bet automatiškai važiuoja ir tikrina vamzdžius, oro vėdinimo takus, ar su jais viskas OK. Kamera ant ratukų, bet dar su įrankiais, kad nereikėtų priežiūros daug
+- Satellite kiek namų šiferis, kiek saulės elektrinės
+- fizinis timetrackeris: kaip tv pultelis, paspaudi ką veiki, seka tavo laiką fizinėje erdvėje. nereikia atidarinėti telefono (ir blaškyti save). mygtukai reprogramable, jei nesinori default
+- nuo AI iki specialisto: infoprojektas vibe-coderiams, mokyt žmogiško kodinimo pagrindų, filosofijos, esmės kaip viskas jungiasi ir kaip mąstyti
+- maži iššūkių polapiai spec. nišoms (pvz veganizmo ar bėgimo)
+- Dainos tempimo app - padaro 30 sekndž arba ir visos valandos, pagal užsakytą ilgį
+- išeik į kiemą: app vietiniam fiziniam renginiam, random pašnekėjimam jei neturi ką veikt, live-real-casual-meetup
+- asmeninio stilisto patarėjo svetainė: realaus laiko budintis personalas tiek vyrams, tiek moterims, prieinami konsultacijoms/patarimams
+- žymūs niekšeliai <- brazauskai ir smetonos, basanavičiai ir čiurlioniai vertinami gerai, bet jie irgi žmonės -- projektas atskleidžia kokias jie žmogiškas klaidas darė, kodėl ir kaip jie buvo bjaurūs (pvz pikasas buvo zjbs dailininkas, bet kaip žmogus, tai super bjaurus vampyras)
+- ar Lietuvos policija turi viešą API, duomenis apie įvykius? taip pat pranešimui apie įvykius?
+- AI pyzdukas: parašyk AI botukui savo idėją, o anas iš tavęs išsipyzdavos. tam, kad būtum pasiruošęs kritikai. gal automatiškai pataria kaip atsakyti į duotą kritiką (draugai visad palaiko, bet tai nėra naudinga, nes tik kritika ugdo/nukreipia(?))
+- mikro-reklamos plotai: daugiabučiuose, kavinėse -- jcdecaux, bet A3 formato, mikro vartotojų kiekis, bet netikėta ir akių lygyje
+- Tyrimų servisas - išknisa info, kurios internete nerandi (118 ?)
+- kaip apgauti bobutę: infoprojektas, apie scam internetuose ir fizinėj erdvėj, kaip apsisaugoti
+- ką darysi karo atveju protokolo pasirengimo pagalbininkas (kad būtų aišku ką darysi ekstremaliais atvejais)
+- kaip tapti politiku: infoprojektas, apie scam ir manipuliacijas politikoje
+- Solar website
+- external logging service: tiesiog persiųsk log duomenis į šį saugų serverį, mes palaikysim (tau nereikia failo arba duombazės), API
+- homebrew, bet android telefonams - su command suinstaliuoja greitai reikiamus apk
+- geriau šūds rankoj nei briedis lankoj: edukuot šunų vedžiotojus, kad supakavus šūdą į maišelį prašom tą ir išsinešt, belekur nenumest
+- AI palydovas / patarėjas / klausytojas -- pagyvenusiems žmonėms, senukams? nors bbž ar emociškai patogu
+- google maps, bet pastatų viduj - pro kur įeiti į ofisą, žemėlapio generatorius, kad nereikėtų piešt per paintą
+- jau matyta (turinys): filtruoti internete besikartojančius dalykus
+- shit monitor: kodėl vis dar nėra išmanaus tualeto, matuojančio išmatas? gi matosi ir mitybos trūkumai, ir šiaip... šlykštu, bet vartotojui naudinga? gal? reiktų pasikonsultuot su sveikatos specialistais
+- api zmogus.lt ale generuoja tikrus asmenis, ale, duomenims pildyti
+- tvarumas mokiniams: interaktyvi programa eco mąstymui kurti
+- ai scrapper buster: fake data generatorius, užspaminti X kalbos turinį fake nesąmonėm, kad AI įrankiai negalėtų pasitikėti tos kalbos turiniu
+- paštomatų kainų palyginimas, dynamic, atsinaujinantis
+- asmeninis CAO (aquisitions): to-buy listas, daiktų, kuriuos norėjai įsigyti, kad nepamirštum nuėjęs iki parduotuvės ar pamatęs eshope
+- GPS ping emergency radio --- koks minimaliausias įmanomas variantas, su mažiausiai elektros? saulės energija? prakaito druska?
+- kur pasukote? asmeninis gps app, rodo į kurią pusę pasukote, kur kiek žingsnių ėjote - nepasiklysti pastate, atsekti kur eita, jei kažkas pamestas
+- ES sukeltos traumos: statistics projektas, parodyt skirtumus tarp LT ir BY, kaip Lietuvoje po prisijungimo X kartų pagerėjo gyvenimo būdas, daugiau babkių, galimybių, mažiau problemų, kuo geriau -- atsakymas "prie ruso buvo geriau" mėmui
+- meteo data predictor / aggregator: surenkam duomenis iš X meteorologijos servisų, gaunam vidurkį, matom kooefecientus kas atitiko per laiką labiausiai, turėtų būti tiksliausi predictionai, nes maišomi visi įmanomi modeliai?
+- pranešk apie šlamštą: pranešk savivaldybei apie apleistus auto, stovinčius metų metus
+- keliauk kaip vietinis: turistams, surask vietinį žmogų, kuris būtų kaip gidas tau (nonprofessional)
+- opsec, bet šeimoms - gyvenimo ir virtualus saugumas, scams, security
+- gyvūnų identifikavimas: atpažinimas kaimenės valdymui
+- digital skelbimų lenta daugiabučiams: buto gyventojai gali prisijungti, skelbti naujienas/pastebėjimus/diskutuoti viešai
+- appsas kasdieniam rašymui, kaip https://writingstreak.io/ - "rašyk kasdien"
+- dėl palikimų žmonės susikolioja: kaip padėti atsidalinti? skaičuoklė / planeris? paeiliui "žaidimas" kaip go?
+- yra kapų QR memorial, tai galėtų būt webas / dump ir kitiems renginams - susikuri arba atsiųsim qr lipdukų, renginio dalyviai gali sumesti visi savo fotkes į vieną vietą / albumą, adminas gali išsivalyti. vestuvėms ir kitkam
+- kaina24, bet drabužiams (jei dar nėr)
+- dronai kaip narkotikų logistika: kodėl dar nenaudojama; ir kaip pagauti, kai bus naudojama? dronų radiolokatoriai?
+- AI iš nuolaidų dataseto (ir europinių/pasaulinių-eksporto kainų pokyčio) nuspėjimui kokios ir kam bus nuolaidos sekančią savaitę Lidl/Maximoj
+- lietuviškas kickstarter? ar jau yra? buvo? (jei buvo, kodėl dingo / nežinomas?)
+- lietuviškų naujienų agregatorius / vertintojas pagal žinutę: kaip tą patį įvykį aprašo skirtingi portalai
+- 360 volumetric nuotraukos (phone app, photo?) → pridėti save į video žaidimą, netflix serialą, matuotis aprangą
+- dejavu analyser: koks tai klausimynas nustatyt ką tau paskutinis dejavu priminė (????)
+- tęsti su apieaugalus, išleisti naujus augalus kasdien iki 100 published
+- povandeniniai dronai: automatinis jūros dugno skenavimas ir stebėjimas
+- share to device, bet tarp visų - kažkas panašaus į IFTTT
+- finansinių anomalijų aptikimas: duodi banko išklotinę -> patikrinama kam išleidi daug daugiau nei vidutinis asmuo
+- Blet, neužsiveda mašina -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
+- auto/moto greičio kontrolės sistema: garažams ir prekybos centrams, su jutikliais, pridavimu policijai
+- investment portfolio analyzer: duodi duomenis ką turi investicijose, tau pasako kokia tavo bendra rizika ir kur dar galėtum investuot, kad būtų max diversifikacija
+- ką skaityti vaikui: rekomendacijos kokią knygą skaityti X amžiaus vaikui
