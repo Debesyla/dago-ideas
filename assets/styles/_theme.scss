@@ -50,12 +50,9 @@ ol {
     margin-top: 1em;
   }
 
-  > blockquote {
-    margin-bottom: 2em;
-  }
-
   // .md viduje lengviau editinti kaip ul, outputas tegul atrodo kaip ol
   > ul {
+    padding-top: 1em;
     list-style-type: decimal;
 
     li::marker {
