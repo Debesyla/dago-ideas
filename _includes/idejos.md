@@ -1,10 +1,13 @@
+*atnaujinta: 2025-09-22*<br>
+*idėjų: 179 (+8)*
+
 - Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
 - Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
 - vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) -- automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą
 - “Blet, neužsiveda mašina” -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
 - AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
 - klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio
-- nemokamos knygos / "knygnešiai" creative commons viešinimas internetuos
+- nemokamos knygos / "knygnešiai" creative commons internetuos, public bibliotekų archyvas (be reikalavimo paimt bibliotekų bilietus)
 - Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
 - anti-nemokamas renginys: įeiti nemokamai, bet išeiti gali tik jei kažką renginyje nusiperki
 - support servisas, kai AI streikuoja/neveikia – fallback botams
@@ -18,14 +21,13 @@
 - mačiau mešką! alert map meškoms, dronams
 - EU neįgalumo direktyvos atitikimo tikrintuvas web
 - Trumpi feature parodantys video kainų puslapyje
-- rent-a-valodia: servisas, kuris suorganizuoja chaltūrčiką patvarkyt kažką namie, ūkyje, prisukt, pakabint - nereikia aiškintis su skirtingais
+- rent-a-volodia: servisas, kuris suorganizuoja chaltūrčiką patvarkyt kažką namie, ūkyje, prisukt, pakabint - nereikia aiškintis su skirtingais
 - pagal numerius mašinos pranešti kitam vairuotojui, kad nedega jo lempos ar panašiai - ne bauda, ne policija, tiesiog asmeninis notice?
 - savitarnos robotukas: nebrangiems produktams - stovi už stendo, atsako į klausimus apie produktą, parodo kur yra susimokėjimo dėžutė (filmuoja, jei kas vagia)
 - asmeninių sveikatos duomenų rinka: kaip vartotojas, gali PARDUOTI savo duomenis sveikatos informacijos agregatoriams/vartotojams/tyrėjams
 - prižiūrim neprižiūrėtą NT servisas - investicinio turto minimali priežiūra
 - UI skin sync, tarp įrenginių
 - tavo vaikas šiandien: siunčia tėvams kasdienę mokinio apžvalgą (tvarkaraštis, pastabos, pranešimai, gal livecam data?)
-- windows 95 themed portfolio
 - Tėvų match - būsimi tėvai sujungti su metais "vyresniais" tėvais (parduoti, atiduoti daiktus) + auklių sharing, pigiau
 - ligoninės lovos: šildančios, šaldančios, masažuojančios. marketing + funkcionalumo galimybė
 - vibes monitor: seka žiniasklaidą, feisbuką ir reditą (?), twiterį/threadsus ir žiūri bendrą visuomenės nuotaiką
@@ -82,7 +84,7 @@
 - kalbėk kaip pletkai.net discord bot
 - pereiti šriftų kūrybos kursus ir sukurti savo font
 - idea-dump soc tinklas, anonimiškai supilti savo kūrybines ir verslo idėjas, tikintis, kad kam bus naudinga
-- artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui
+- artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui // requested feature: su X dydžio tuščia vieta
 - kursas, UX
 - meetting summary / notes - autogenerate (čiuju jau chatgpt gali? jei ne, kokie trūkumai?)
 - mokykis mokytis: infoprojektas mokymosi sugebėjimo gerinimui (nes kuo geriau moki mokytis, tuo greičiau mokaisi? tim ferris?)
@@ -160,7 +162,6 @@
 - lietuviškų naujienų agregatorius / vertintojas pagal žinutę: kaip tą patį įvykį aprašo skirtingi portalai
 - 360 volumetric nuotraukos (phone app, photo?) → pridėti save į video žaidimą, netflix serialą, matuotis aprangą
 - dejavu analyser: koks tai klausimynas nustatyt ką tau paskutinis dejavu priminė (????)
-- tęsti su apieaugalus, išleisti naujus augalus kasdien iki 100 published
 - povandeniniai dronai: automatinis jūros dugno skenavimas ir stebėjimas
 - share to device, bet tarp visų - kažkas panašaus į IFTTT
 - finansinių anomalijų aptikimas: duodi banko išklotinę -> patikrinama kam išleidi daug daugiau nei vidutinis asmuo
@@ -169,3 +170,13 @@
 - investment portfolio analyzer: duodi duomenis ką turi investicijose, tau pasako kokia tavo bendra rizika ir kur dar galėtum investuot, kad būtų max diversifikacija
 - ką skaityti vaikui: rekomendacijos kokią knygą skaityti X amžiaus vaikui
 - “pažink kaimyną”: appsas/žaidimas su žemėlapiais, generated portretais ir informacija – užrašyt ką žinom apie X asmenį, kad būtų galima lengviau prisiminti su kuo gyveni / dirbi — taip pat galėtų būt shareable su kitu
+- “triukšmo radaras”: nufotkina ir siunčia duomenis policijai, jei mašina ar motociklas pernelyg triukšmauja nakties metu
+- “susikišk tą AI sau į…” meme-web, juokelis, lmfgify stilium, atsakant į “paklausiau Ai ir jis man patarė tau pasakyti…” parasocialų bendravimą
+- notbyai.fyi lietuviškas local klonas, anti-ai slop
+- Neleisk man pirkti knygas - užsikodavimas nuo knygų pirkimo kaip su lažybų įstaigomis // ir su kita produkcija
+- Geocaching custom konteinerių 3d printing
+- Ar mašinos lempos šviečia vienodai: app, tikrinantis
+- Skatinimas naudotis autobusais: kiekvienas bilietas yra loterijos dalis, važiuok ir šansas laimėti
+- Mini viena ranka laikomas trimeriukas, vejos kraštams
+- Popieriniai naujienlaiškiai – ale email marketing, bet popieriniu paštu
+- Solar powered distributed network servers (pvz ant stulpų, miške, avarinis tinklas)
