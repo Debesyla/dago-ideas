@@ -1,5 +1,5 @@
-*atnaujinta: 2025-09-22*<br>
-*idėjų: 179 (+8)*
+*atnaujinta: 2025-09-23*<br>
+*idėjų: 180 (+1)*
 
 - Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
 - Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
@@ -180,3 +180,4 @@
 - Mini viena ranka laikomas trimeriukas, vejos kraštams
 - Popieriniai naujienlaiškiai – ale email marketing, bet popieriniu paštu
 - Solar powered distributed network servers (pvz ant stulpų, miške, avarinis tinklas)
+- localhosted domenų tikrintuvas: svajonių domenų duombazė → domreg ir kitų whois request checkeriai, notify if/when available 
