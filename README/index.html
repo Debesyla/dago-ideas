@@ -1,0 +1,135 @@
+<h1>dago-ideas</h1>
+<p>A minimalist static site for sharing ideas, built with Eleventy and optimized for performance.</p>
+<h2>Stack</h2>
+<ul>
+<li><strong>Static Site Generator</strong>: <a href="https://www.11ty.dev/">Eleventy</a> (11ty) v3.1.2</li>
+<li><strong>CSS Preprocessor</strong>: <a href="https://sass-lang.com/">Sass</a> v1.93.0</li>
+<li><strong>Markdown Processing</strong>: <a href="https://github.com/markdown-it/markdown-it">markdown-it</a> v14.1.0</li>
+<li><strong>Build Tools</strong>: npm scripts for development and production</li>
+</ul>
+<h2>Features</h2>
+<ul>
+<li><strong>Inline CSS</strong>: Automatically compiles and inlines minified Sass for optimal performance</li>
+<li><strong>Live Reload</strong>: Development server with automatic rebuilds on file changes</li>
+<li><strong>Favicon Support</strong>: Configured with proper passthrough copying</li>
+<li><strong>Environment-aware Caching</strong>: CSS compilation caching in production, fresh rebuilds in development</li>
+<li><strong>Responsive Design</strong>: Mobile-first approach with clean typography</li>
+</ul>
+<h2>Project Structure</h2>
+<pre><code>dago-ideas/
+├── _includes/           # Eleventy layouts and partials
+│   ├── base.html       # Main HTML layout
+│   └── idejos.md       # Ideas content partial
+├── _site/              # Generated static site (build output)
+├── assets/
+│   ├── icons/          # Favicon and icon assets
+│   │   └── dago-icon.png
+│   ├── img/            # Images
+│   └── styles/         # Sass partials
+│       ├── _reset.scss
+│       ├── _theme.scss
+│       └── _variables.scss
+├── bundle.scss         # Main Sass entry point
+├── index.md            # Homepage content
+├── .eleventy.js        # Eleventy configuration
+└── package.json        # Dependencies and scripts
+</code></pre>
+<h2>How It Works</h2>
+<h3>CSS Pipeline</h3>
+<ol>
+<li><strong>Sass Compilation</strong>: <code>bundle.scss</code> imports all style partials from <code>assets/styles/</code></li>
+<li><strong>Inline Optimization</strong>: Eleventy shortcode compiles Sass and inlines it as <code>&lt;style&gt;</code> tags</li>
+<li><strong>Minification</strong>: CSS is compressed using Sass's built-in compression</li>
+<li><strong>Caching</strong>: Smart caching system - cached in production, invalidated on changes during development</li>
+</ol>
+<h3>Development Workflow</h3>
+<ol>
+<li><strong>Watch Mode</strong>: <code>npm start</code> runs both Eleventy server and Sass watcher in parallel</li>
+<li><strong>Auto-rebuild</strong>: Changes to <code>.md</code>, <code>.html</code>, or <code>.scss</code> files trigger automatic rebuilds</li>
+<li><strong>Live Reload</strong>: Browser automatically refreshes when files change</li>
+</ol>
+<h3>Build Process</h3>
+<ul>
+<li>Eleventy processes Markdown content using the <code>base.html</code> layout</li>
+<li>Sass files are compiled and inlined directly into HTML</li>
+<li>Assets (favicon, images) are copied to the output directory</li>
+<li>Final static site is generated in <code>_site/</code> directory</li>
+</ul>
+<h2>Development</h2>
+<h3>Prerequisites</h3>
+<ul>
+<li>Node.js (recent version)</li>
+<li>npm</li>
+</ul>
+<h3>Getting Started</h3>
+<ol>
+<li>
+<p><strong>Install dependencies</strong>:</p>
+<pre><code class="language-bash">npm install
+</code></pre>
+</li>
+<li>
+<p><strong>Start development server</strong>:</p>
+<pre><code class="language-bash">npm start
+</code></pre>
+<p>This runs:</p>
+<ul>
+<li>Eleventy dev server with live reload at <code>http://localhost:8080</code></li>
+<li>Sass watcher for CSS compilation</li>
+</ul>
+</li>
+<li>
+<p><strong>Build for production</strong>:</p>
+<pre><code class="language-bash">npx @11ty/eleventy
+</code></pre>
+</li>
+</ol>
+<h3>Available Scripts</h3>
+<ul>
+<li><code>npm start</code> - Start development server with live reload and Sass watching</li>
+<li><code>npm run watch:eleventy</code> - Run only Eleventy dev server</li>
+<li><code>npm run watch:sass</code> - Run only Sass watcher (outputs to <code>_site/bundle.css</code>)</li>
+</ul>
+<h2>Configuration</h2>
+<h3>Eleventy (<code>.eleventy.js</code>)</h3>
+<ul>
+<li>Custom Sass compilation with inline CSS shortcode</li>
+<li>Watch targets for automatic rebuilds</li>
+<li>Passthrough copy for static assets</li>
+<li>Environment-aware caching system</li>
+</ul>
+<h3>Sass (<code>bundle.scss</code>)</h3>
+<ul>
+<li>Modular architecture with partial imports</li>
+<li>Compressed output for production</li>
+<li>Mobile-first responsive design patterns</li>
+</ul>
+<h2>Content Management</h2>
+<h3>Adding Ideas</h3>
+<p>Edit <code>_includes/idejos.md</code> to add new ideas or content. The file is automatically included in the homepage.</p>
+<h3>Styling</h3>
+<p>Modify Sass files in <code>assets/styles/</code>:</p>
+<ul>
+<li><code>_variables.scss</code> - Colors, fonts, spacing variables</li>
+<li><code>_reset.scss</code> - CSS reset and base styles</li>
+<li><code>_theme.scss</code> - Component and layout styles</li>
+</ul>
+<h3>Layout Changes</h3>
+<p>Edit <code>_includes/base.html</code> for structural HTML changes or <code>index.md</code> for homepage content.</p>
+<h2>Deployment</h2>
+<p>The site generates static files in <code>_site/</code> that can be deployed to any static hosting service:</p>
+<ul>
+<li><strong>GitHub Pages</strong>: Push to <code>gh-pages</code> branch or configure Pages to build from main</li>
+<li><strong>Netlify</strong>: Connect repository and set build command to <code>npx @11ty/eleventy</code></li>
+<li><strong>Vercel</strong>: Import project with auto-detected Eleventy settings</li>
+<li><strong>Traditional hosting</strong>: Upload <code>_site/</code> contents to web server</li>
+</ul>
+<h2>Performance Optimizations</h2>
+<ul>
+<li><strong>Inline CSS</strong>: Eliminates render-blocking external stylesheets</li>
+<li><strong>Minified output</strong>: Compressed CSS and optimized HTML</li>
+<li><strong>Minimal dependencies</strong>: Lightweight build with essential tools only</li>
+<li><strong>Fast builds</strong>: Incremental compilation and smart caching</li>
+</ul>
+<h2>License</h2>
+<p>ISC</p>
