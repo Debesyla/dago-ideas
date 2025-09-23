@@ -52,7 +52,7 @@ module.exports = function (eleventyConfig) {
   });
     
   eleventyConfig.addTemplateFormats("scss");
-
-  // Passthrough copy for favicon: place file at site root as /dago-icon.png
-  eleventyConfig.addPassthroughCopy({ "assets/img/dago-icon.png": "dago-icon.png" });
+  
+  // Passthrough copy for assets folder to preserve folder structure
+  // eleventyConfig.addPassthroughCopy("assets/img"); // <-- temp test
 };
