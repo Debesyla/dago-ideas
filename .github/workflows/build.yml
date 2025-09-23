@@ -1,4 +1,4 @@
-name: Build and Deploy ideas.dago.lt
+name: Build and Deploy idejos.dago.lt
 on:
   push:
     branches: [ main ]
