@@ -5,13 +5,13 @@ body {
   background: $black;
   color: $theme;
   margin: 0 auto 0 0;
-  padding: 3em 1.5em 6em;
+  padding: var(--2xl) var(--lg) var(--3xl);
   font-family: monospace, 'Courier New', Courier, sans-serif;
   max-width: 75ch;
 }
 
 a {
-  text-underline-offset: 0.25em;
+  text-underline-offset: var(--xs);
 
   &:hover,
   &:focus {
@@ -20,11 +20,11 @@ a {
 }
 
 ul, ol {
-  padding-left: 1.25em;
+  padding-left: var(--lg);
 
   li {
     & + li {
-      margin-top: 0.75em;
+      margin-top: var(--md);
     }
 
     &::marker {
@@ -47,12 +47,12 @@ ol {
 /* content */
 #content {
   & > * + * {
-    margin-top: 1em;
+    margin-top: var(--md);
   }
 
   // .md viduje lengviau editinti kaip ul, outputas tegul atrodo kaip ol
   > ul {
-    padding-top: 1em;
+    padding-top: var(--md);
     list-style-type: decimal;
 
     li::marker {
@@ -62,5 +62,5 @@ ol {
 }
 
 #colophon {
-  margin-top: 4em;
+  margin-top: var(--2xl);
 }
