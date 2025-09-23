@@ -54,5 +54,5 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTemplateFormats("scss");
   
   // Passthrough copy for assets folder to preserve folder structure
-  // eleventyConfig.addPassthroughCopy("assets/img"); // <-- temp test
+  eleventyConfig.addPassthroughCopy("assets/img");
 };
