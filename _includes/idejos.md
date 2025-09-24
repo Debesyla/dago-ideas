@@ -1,12 +1,11 @@
 *atnaujinta: 2025-09-24*<br>
-*idėjų: 181 (+1)*
+*idėjų: 182 (+2)*
 
 - Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
 - Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
 - vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) -- automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą
 - “Blet, neužsiveda mašina” -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
-- AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
-- klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio
+- klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio, kad išmoktum, kad kūryba yra maišymas
 - nemokamos knygos / "knygnešiai" creative commons internetuos, public bibliotekų archyvas (be reikalavimo paimt bibliotekų bilietus)
 - Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
 - anti-nemokamas renginys: įeiti nemokamai, bet išeiti gali tik jei kažką renginyje nusiperki
@@ -16,9 +15,10 @@
 - saugumo kameros butams "babulė alert": notice, jei nepažįstamas veidas, jei nepažįstama mašina
 - ramink bazarą - ai klauso diskusijos/pokalbio, ir kai kažkas įsijaučia, pradeda pypsėt, kad vsio, emocinis krūvis per didelis, raminamės
 - naminio alaus / vyno gaminimo appsas, step by step
+- AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
 - LR rinkimų rezultatų atvaizdavimas aiškiau, live results (be reload), žemėlapis ir various dash iš karto
 - kelių kokybės tikrinimo solar robotukas-dronas
-- mačiau mešką! alert map meškoms, dronams
+- “mačiau mešką!“ alert map meškoms, dronams
 - EU neįgalumo direktyvos atitikimo tikrintuvas web
 - Trumpi feature parodantys video kainų puslapyje
 - rent-a-volodia: servisas, kuris suorganizuoja chaltūrčiką patvarkyt kažką namie, ūkyje, prisukt, pakabint - nereikia aiškintis su skirtingais
@@ -42,11 +42,11 @@
 - gmail notification sound jei ateina laiškas iš X siuntėjo
 - #100naujųDalykųKasdien appsas
 - kapų priežiūros servisas
-- Važiuok dviračių žiemą
+- Važiuok dviračių žiemą kampanija – jei danai gali, gali ir lietuviai (ypač tokiais orais)
 - android apk decompiler -> compiler, editorius redaguoti appsus? išvis ar įmanoma?
 - sattelite nelegalaus NT detectorius / gamtos pažeidimų detektorius / per arti pakrantės detektorius
 - AI faktų rinkėjas - renka argumentus, suveda į vieną "atskaitos įrašą" ir atnaujina
-- Rūkyk balkone kampanija
+- Rūkyk balkone kampanija – geriau balkone, nei prie gartraukio, nes naujoj statyboj niekas langų atidarytų nepalikinėja, o rekupas su rūkalais prasčiau susidoroja
 - medkirtys-robotas: lipa medžiu, pasisuka pjūklas, nupjauna šakas. nereikia niekam lipt, užtenka prie kamieno apačioje nustatyt ir nugenės šakas ir patį stuobrį
 - Interneto archyvas, lietuviško web
 - kursas, web programavimo pagrindai (kaip ieškoti informacijos ir kaip bandyti dalykus paprastai)
@@ -85,8 +85,7 @@
 - pereiti šriftų kūrybos kursus ir sukurti savo font
 - idea-dump soc tinklas, anonimiškai supilti savo kūrybines ir verslo idėjas, tikintis, kad kam bus naudinga
 - artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui // requested feature: su X dydžio tuščia vieta
-- kursas, UX
-- meetting summary / notes - autogenerate (čiuju jau chatgpt gali? jei ne, kokie trūkumai?)
+- “UX dundukui” kursas: virtualaus ir fizinio
 - mokykis mokytis: infoprojektas mokymosi sugebėjimo gerinimui (nes kuo geriau moki mokytis, tuo greičiau mokaisi? tim ferris?)
 - shared to-dos: darbai, bet ne tau, o bendruomenei (šeimoje, tarp kaimynų)
 - dronų lenktynės / dakaras
@@ -172,6 +171,8 @@
 - “pažink kaimyną”: appsas/žaidimas su žemėlapiais, generated portretais ir informacija – užrašyt ką žinom apie X asmenį, kad būtų galima lengviau prisiminti su kuo gyveni / dirbi — taip pat galėtų būt shareable su kitu
 - “triukšmo radaras”: nufotkina ir siunčia duomenis policijai, jei mašina ar motociklas pernelyg triukšmauja nakties metu
 - “susikišk tą AI sau į…” meme-web, juokelis, lmfgify stilium, atsakant į “paklausiau Ai ir jis man patarė tau pasakyti…” parasocialų bendravimą
+- “iki lemputės”: idėjų generavimo mokymai-įrankis (brainstormingo technikos, kūrybinė vagystė/maišymas, drąsa užrašyti durną idėją ir…)
+- NEWjanai 2.0: kapsų-kaminkelio trikampio kvartalas, kultūrinis renginys pristatyti perspektyvą (nauja statyba, būsima nauja statyba ir dar plotai kur bus)
 - notbyai.fyi lietuviškas local klonas, anti-ai slop
 - Neleisk man pirkti knygas - užsikodavimas nuo knygų pirkimo kaip su lažybų įstaigomis // ir su kita produkcija
 - Geocaching custom konteinerių 3d printing
@@ -181,4 +182,4 @@
 - Popieriniai naujienlaiškiai – ale email marketing, bet popieriniu paštu
 - Solar powered distributed network servers (pvz ant stulpų, miške, avarinis tinklas)
 - localhosted domenų tikrintuvas: svajonių domenų duombazė → domreg ir kitų whois request checkeriai, notify if/when available 
-- retro terminalo tipo (amber, green) e-ink skaityklės, vietoj juoda-baltos ar pilnai spalvotos
+- retro terminalo tipo (amber, green) e-ink skaityklės, vietoj juoda-baltos ar pilnai spalvotos 
