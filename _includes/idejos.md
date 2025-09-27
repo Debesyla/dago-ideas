@@ -1,5 +1,5 @@
-*atnaujinta: 2025-09-24*<br>
-*idėjų: 182 (+2)*
+*atnaujinta: 2025-09-27*<br>
+*idėjų: 191 (+8)*
 
 - Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
 - Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
@@ -173,6 +173,7 @@
 - “susikišk tą AI sau į…” meme-web, juokelis, lmfgify stilium, atsakant į “paklausiau Ai ir jis man patarė tau pasakyti…” parasocialų bendravimą
 - “iki lemputės”: idėjų generavimo mokymai-įrankis (brainstormingo technikos, kūrybinė vagystė/maišymas, drąsa užrašyti durną idėją ir…)
 - NEWjanai 2.0: kapsų-kaminkelio trikampio kvartalas, kultūrinis renginys pristatyti perspektyvą (nauja statyba, būsima nauja statyba ir dar plotai kur bus)
+- naujanAI: “kalbėk kaip naujaniškis”, pramoginis-kultūrinis botukas, vietiniai anekdotai ir kitos rajono subtilybės
 - notbyai.fyi lietuviškas local klonas, anti-ai slop
 - Neleisk man pirkti knygas - užsikodavimas nuo knygų pirkimo kaip su lažybų įstaigomis // ir su kita produkcija
 - Geocaching custom konteinerių 3d printing
@@ -183,3 +184,11 @@
 - Solar powered distributed network servers (pvz ant stulpų, miške, avarinis tinklas)
 - localhosted domenų tikrintuvas: svajonių domenų duombazė → domreg ir kitų whois request checkeriai, notify if/when available 
 - retro terminalo tipo (amber, green) e-ink skaityklės, vietoj juoda-baltos ar pilnai spalvotos 
+- web specialistų profsąjunga / dizainerių / marketingistų / sergančiųjų išsėtine sklerioze / neįgaliųjų (kokios dar potencialiai populiarios profsajungos, kurių dar nėra?)
+- VŠĮ “Išleisti knygą gali bet kas”: padedame rašytojams leisti / platinti jų kūrybą ne tik teorija ir patarimais
+- reklamos radijas: tik reklamos, visą parą
+- AI radijas: tik AI generuota muzika
+- AI statybioras: klijuot plyteles, plytas, trinkeles klot – tai, kas kartojasi
+- AI radijo laidų sync translator – klausai ir išverčia iš karto, gali klausyt bet kurio pasaulio radijo sava kalba // taip pat ir televizijai
+- Vilniaus “achievements” žemėlapis, kaip videožaidimuos: sužymėtos vietos, kur gali padaryt “achievementą” – pvz. užlipti į bokštą, paliesti vandenį, apeiti aplinkui, per X minučių numinti nuo Y iki Z. Nieko oficialaus ir komercinio, tik smagus miesto atradimas
+- gimbal laikymo prietaisas puodukams: kad kai rankos dreba, išlygintų puoduką ir neprisilaistytų ant žemės (diedukams, neįgaliems, šiaip žiopliems)
