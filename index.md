@@ -4,6 +4,6 @@ layout: base.html
 
 # /ideas
 
-> **Įkvėpta:** [aboutidėjosnow.com](https://aboutidėjosnow.com)
+> **Įkvėpta:** [aboutideasnow.com](https://aboutideasnow.com)
 
 {% include 'idejos.md' %}
