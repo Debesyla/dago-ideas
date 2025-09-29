@@ -2,8 +2,8 @@
 layout: base.html
 ---
 
-# /idejos
+# /ideas
 
-> **Įkvėpta:** [aboutidejosnow.com](https://aboutidejosnow.com)
+> **Įkvėpta:** [aboutidėjosnow.com](https://aboutidėjosnow.com)
 
 {% include 'idejos.md' %}

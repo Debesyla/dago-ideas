@@ -62,7 +62,7 @@
 - Dronas - tikrintojas: paleidi, jis skrenda aplink namą ir fiksuoja statybos trūkumus, įtrūkimus. Vaizdu, sonaru, thermal, infrared, radiosignalai. Lengvas būdas patikrinti ar su namu (ypač stogu) nėra rimtų statybos bėdų
 - brainstorming / idea generation metodų apžvalgos
 - vertinu viską: reviews belekam, kam tik norisi
-- idejos.dago.lt public idejos list, in case someone will find use of it
+- idėjos.dago.lt public idėjos list, in case someone will find use of it
 - EU "ar alga lygi visoms lytims / žmonėms" direktyvos ataskaitų rengimas automatiškai (AI)
 - Lietuvos bibliotekų duomenų open decentralizacija, just in case something happens
 - produktyvumo sistemų apžvalgos
