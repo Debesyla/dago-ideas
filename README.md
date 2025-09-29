@@ -1,6 +1,6 @@
-# dago-ideas
+# dago-idejos
 
-A minimalist static site for sharing ideas, built with Eleventy and optimized for performance.
+A minimalist static site for sharing idejos, built with Eleventy and optimized for performance.
 
 ## Stack
 
@@ -20,10 +20,10 @@ A minimalist static site for sharing ideas, built with Eleventy and optimized fo
 ## Project Structure
 
 ```
-dago-ideas/
+dago-idejos/
 ├── _includes/           # Eleventy layouts and partials
 │   ├── base.html       # Main HTML layout
-│   └── idejos.md       # Ideas content partial
+│   └── idejos.md       # idejos content partial
 ├── _site/              # Generated static site (build output)
 ├── assets/
 │   ├── icons/          # Favicon and icon assets
@@ -105,8 +105,8 @@ dago-ideas/
 
 ## Content Management
 
-### Adding Ideas
-Edit `_includes/idejos.md` to add new ideas or content. The file is automatically included in the homepage.
+### Adding idejos
+Edit `_includes/idejos.md` to add new idejos or content. The file is automatically included in the homepage.
 
 ### Styling
 Modify Sass files in `assets/styles/`:

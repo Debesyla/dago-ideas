@@ -4,8 +4,24 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>{{ page.title | default: site.title | default: "dago / ideas" }}</title>
+        <title>{{ page.title | default: site.title | default: "dago / idejos" }}</title>
         <link rel="icon" href="/assets/img/dago-icon.png" type="image/png" />
+
+        <!-- Social sharing metadata -->
+        {% assign baseurl = site.url | default: '' %}
+        {% assign og_title = page.title | default: site.title | default: 'dago / idejos' %}
+        {% assign og_desc = page.description | default: site.description | default: 'idejos by Dago' %}
+        {% assign og_image = baseurl | append: '/assets/img/featured.png' %}
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="{{ og_title }}">
+        <meta property="og:description" content="{{ og_desc }}">
+        <meta property="og:image" content="{{ og_image }}">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:alt" content="{{ og_title }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="{{ og_title }}">
+        <meta name="twitter:description" content="{{ og_desc }}">
+        <meta name="twitter:image" content="{{ og_image }}">
 
         {% inlineBundleCss %}
     </head>
