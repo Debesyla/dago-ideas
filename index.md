@@ -6,4 +6,10 @@ layout: base.html
 
 > **Įkvėpta:** [aboutideasnow.com](https://aboutideasnow.com)
 
-{% include 'idejos.md' %}
+{% assign latest = idejos.latest %}
+{% if latest %}
+*atnaujinta: {{ latest.date | dateYMD }}*<br>
+*idėjų: {{ latest.count }} ({{ latest.diff }})*
+{% endif %}
+
+{% idejosBody idejos %}

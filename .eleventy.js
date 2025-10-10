@@ -55,4 +55,19 @@ module.exports = function (eleventyConfig) {
   
   // Passthrough copy for assets folder to preserve folder structure
   eleventyConfig.addPassthroughCopy("assets/img");
+
+  // Filter: format Date or date-like string to YYYY-MM-DD
+  eleventyConfig.addFilter("dateYMD", (value) => {
+    if (!value) return "";
+    const d = (value instanceof Date) ? value : new Date(value);
+    if (isNaN(d.getTime())) return String(value);
+    const pad = (n) => String(n).padStart(2, "0");
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())}`;
+  });
+
+  // Shortcode: render idejos body markdown without the YAML front matter
+  eleventyConfig.addShortcode("idejosBody", function (idejos) {
+    const body = (idejos?.body || "");
+    return body;
+  });
 };
