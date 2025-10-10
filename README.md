@@ -135,4 +135,8 @@ The site generates static files in `_site/` that can be deployed to any static h
 
 ## License
 
-ISC
+Do whatever.
+
+## AI notice
+
+This readme.md file was generated using LLM, modified by human.
