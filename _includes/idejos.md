@@ -1,11 +1,18 @@
-*atnaujinta: 2025-09-27*<br>
-*idėjų: 191 (+8)*
+---
+updates:
+  - date: 2025-09-27
+    count: 191
+    diff: "+8"
+  - date: 2025-10-10
+    count: 188
+    diff: "-3"
+---
 
-- Kam aukoti? - puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% GPM
+- “Kam aukoti?” – puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% + 0.6% + 0.6% GPM optimaliausiai (susiję: ROI vertinimai)
 - Seimo procesų atvaizdavimas tvarkingiau, aiškiau 
-- vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) -- automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą
-- “Blet, neužsiveda mašina” -- nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
-- klonatonas: kūrybinis žaidimas jaunimui - pamodifikuok, pridėk, nutrink kažką iš praeito piešinio, kad išmoktum, kad kūryba yra maišymas
+- vizualus prekės atpažinimas (maxima/lidl/rimi/iki automatinės kasos) – automatiškai pasiūlo ką čia per spurgą paėmei, ar bananą, nereikėtų ieškoti lentelėje
+- “Blet, neužsiveda mašina” – nufilmuoji ir AI atpažįsta iš garso kas galėtų būt sugedę, padeda troubleshootinti, kad žinotum kame bėda, kad garažuose neapgautų remončikai
+- klonatonas: kūrybinis žaidimas jaunimui – pamodifikuok, pridėk, nutrink kažką iš praeito piešinio, kad išmoktum, kad kūryba yra maišymas, nereik bijot kopijuot
 - nemokamos knygos / "knygnešiai" creative commons internetuos, public bibliotekų archyvas (be reikalavimo paimt bibliotekų bilietus)
 - Prisiminimų albumas senukams: nuotraukos/slideshow, galimybė pridėti garso įrašą prie kiekvienos (be papildomo vargo, tiesiog default recordina, kol anie šneka), balsas → tekstas (metapaieškai vėliau) --- data gathering campaing prarandamiems prisiminimams, nes senukai nemėgsta rašyti knygų ir daug info išgaruoja
 - anti-nemokamas renginys: įeiti nemokamai, bet išeiti gali tik jei kažką renginyje nusiperki
@@ -13,36 +20,34 @@
 - lietuviškų web statistika: turim 300k domenų -> scan visus -> data kokius tvs naudoja, kiek dideli sitemap, kada naujinta, kokia įmonė, kam skirtas web
 - AI patyčios: duodi fb/linkedin postą ir jis iš tavęs išsityčioja, randa kalbos / logikos / skambesio bėdų, kad galėtum pasitaisyti prieš leidžiant --- arba iš vis sako "geriau neleisk šito, nes gaidys yr, sugalvok ką kito"
 - saugumo kameros butams "babulė alert": notice, jei nepažįstamas veidas, jei nepažįstama mašina
-- ramink bazarą - ai klauso diskusijos/pokalbio, ir kai kažkas įsijaučia, pradeda pypsėt, kad vsio, emocinis krūvis per didelis, raminamės
+- ramink bazarą – ai klauso diskusijos/pokalbio, ir kai kažkas įsijaučia, pradeda pypsėt, kad vsio, emocinis krūvis per didelis, raminamės
 - naminio alaus / vyno gaminimo appsas, step by step
 - AI eshop testeris (močiutės test) - suranda spragas, siūlo optimizacijų, A/B testų
-- LR rinkimų rezultatų atvaizdavimas aiškiau, live results (be reload), žemėlapis ir various dash iš karto
+- LR rinkimų rezultatų atvaizdavimas aiškiau, live results (be reload), žemėlapis ir various dash iš karto ((moldovos geras pvz?))
 - kelių kokybės tikrinimo solar robotukas-dronas
-- “mačiau mešką!“ alert map meškoms, dronams
+- “mačiau mešką!“ alert map meškoms, dronams, kontrobandos balionams
 - EU neįgalumo direktyvos atitikimo tikrintuvas web
-- Trumpi feature parodantys video kainų puslapyje
 - rent-a-volodia: servisas, kuris suorganizuoja chaltūrčiką patvarkyt kažką namie, ūkyje, prisukt, pakabint - nereikia aiškintis su skirtingais
-- pagal numerius mašinos pranešti kitam vairuotojui, kad nedega jo lempos ar panašiai - ne bauda, ne policija, tiesiog asmeninis notice?
+- pagal numerius mašinos pranešti kitam vairuotojui, kad nedega jo lempos ar panašiai - ne bauda, ne policija, tiesiog asmeninis notice
 - savitarnos robotukas: nebrangiems produktams - stovi už stendo, atsako į klausimus apie produktą, parodo kur yra susimokėjimo dėžutė (filmuoja, jei kas vagia)
 - asmeninių sveikatos duomenų rinka: kaip vartotojas, gali PARDUOTI savo duomenis sveikatos informacijos agregatoriams/vartotojams/tyrėjams
 - prižiūrim neprižiūrėtą NT servisas - investicinio turto minimali priežiūra
-- UI skin sync, tarp įrenginių
+- UI skin/theme sync, tarp įrenginių, atitinkamo panašiausio
 - tavo vaikas šiandien: siunčia tėvams kasdienę mokinio apžvalgą (tvarkaraštis, pastabos, pranešimai, gal livecam data?)
 - Tėvų match - būsimi tėvai sujungti su metais "vyresniais" tėvais (parduoti, atiduoti daiktus) + auklių sharing, pigiau
-- ligoninės lovos: šildančios, šaldančios, masažuojančios. marketing + funkcionalumo galimybė
+- ligoninės lovos: šildančios, šaldančios, masažuojančios — marketing + funkcionalumo galimybė
 - vibes monitor: seka žiniasklaidą, feisbuką ir reditą (?), twiterį/threadsus ir žiūri bendrą visuomenės nuotaiką
 - dizaino / reklamos firmų sąrašas, žemėlapis (arba kitos srities)
-- Garsų gatvėje analyser
+- Garsų gatvėje analyser (flock, bet visuomenės pokalbiams, nuotaikoms, triukšmingoms mašinoms)
 - saugumo kamera iš seno telefono: naudojam tik vaizdo kamerą -> vaizdą įrašom -> autoištrynimas (visa kita off, dėl performance)
 - sporto prekių nuoma: slidinėjimo įranga, elipsiniai ir bėgimo aparatai -- nes vis vien naudojame tik kokį mėnesį, tai kam pirkt? nuomuok!
 - infosec žaidimas (puolimo ir gynybos etapai) --- edukacinis, gerinti saugumą, mažinti informacijos nutekėjimą
-- darbo paieškos portalas su žemėlapiu - kaip aruodas NT
-- Skaitmeninių portretų kūrimo paslauga - custom art/dizainai (nors berods yra kas ale simpsonų stilium pakuria..? bet čia su spauda ir atsiuntimu)
+- darbo paieškos portalas su žemėlapiu - kaip aruodas NT, rask darbą arčiau namų
 - cloud torrents: atsisiųsti torrent į remote vietą (gdrive, dropbox ir pan.)
 - gmail notification sound jei ateina laiškas iš X siuntėjo
 - #100naujųDalykųKasdien appsas
 - kapų priežiūros servisas
-- Važiuok dviračių žiemą kampanija – jei danai gali, gali ir lietuviai (ypač tokiais orais)
+- Važiuok dviračių žiemą kampanija – jei danai gali, gali ir lietuviai (ypač klimato kaitoj)
 - android apk decompiler -> compiler, editorius redaguoti appsus? išvis ar įmanoma?
 - sattelite nelegalaus NT detectorius / gamtos pažeidimų detektorius / per arti pakrantės detektorius
 - AI faktų rinkėjas - renka argumentus, suveda į vieną "atskaitos įrašą" ir atnaujina
@@ -58,11 +63,10 @@
 - augalų atgaivinimo servisas: paimsim augalą, atgaivinsim, grąžinsim
 - kūrybos licenzijos: infoprojektas kokios yra, kuo skiriasi, kokios ribos, kokią imti naujam tavo projektui
 - telefonų p2p ryšys (nors pala, ar nėra dar? bluetooth, radio signal?)
-- comics generator iš no-copyright seno turinio
 - Dronas - tikrintojas: paleidi, jis skrenda aplink namą ir fiksuoja statybos trūkumus, įtrūkimus. Vaizdu, sonaru, thermal, infrared, radiosignalai. Lengvas būdas patikrinti ar su namu (ypač stogu) nėra rimtų statybos bėdų
 - brainstorming / idea generation metodų apžvalgos
 - vertinu viską: reviews belekam, kam tik norisi
-- idėjos.dago.lt public idėjos list, in case someone will find use of it
+- idejos.dago.lt public idėjos list, in case someone will find use of it
 - EU "ar alga lygi visoms lytims / žmonėms" direktyvos ataskaitų rengimas automatiškai (AI)
 - Lietuvos bibliotekų duomenų open decentralizacija, just in case something happens
 - produktyvumo sistemų apžvalgos
@@ -78,7 +82,7 @@
 - bookswap populiariausios knygos, labiausiai ieškomos knygos
 - emergency pagalbos servisas diedukams - skambinti belekada, prilėksim
 - apklausa.lt scrapping, duomenų analizė
-- šuolis be virvės - tave pagauna tinklas (ar... įmanoma??)
+- šuolis be virvės - tave pagauna tinklas
 - kasko draudimas, bet dronams ?? civilinis?
 - operacinė sistema: paverčia senus mobilius įrenginius mazgais globaliam tinklui anoniminei interneto prieigai
 - kalbėk kaip pletkai.net discord bot
@@ -87,9 +91,9 @@
 - artimiausio paštomato paieška (iš skirtingų visų tinklų) - siuntėjui ir gavėjui // requested feature: su X dydžio tuščia vieta
 - “UX dundukui” kursas: virtualaus ir fizinio
 - mokykis mokytis: infoprojektas mokymosi sugebėjimo gerinimui (nes kuo geriau moki mokytis, tuo greičiau mokaisi? tim ferris?)
-- shared to-dos: darbai, bet ne tau, o bendruomenei (šeimoje, tarp kaimynų)
+- shared to-dos: darbai, bet ne tau, o bendruomenei (šeimoje, tarp kaimynų, rajone) — papildomai, duoti “karmą” kaip valiutą, už pagalbą
 - dronų lenktynės / dakaras
-- hostbox - portable mini serveris, kurį būtų galima "netyčia" pamiršti įjungtą kavinėje, sandėlyje, kažkur kitur. Vagia elektrą ir interneto ryšį iš vietos, užkraunamas web, vajei, neaišku kas -- anonymous hosting
+- hostbox - portable mini serveris, kurį būtų galima "netyčia" pamiršti įjungtą kavinėje, sandėlyje, kažkur kitur. Vagia elektrą ir interneto ryšį iš vietos, užkraunamas web, vajei, neaišku kam priklauso -- anonymous hosting
 - juodoji dėžė dviračiams ir paspirtukams (naujos mašinos jau turi)
 - būdas pakeisti IMEI ir kitus įrangos identifikatorius?
 - mini vieno kasnio šakotukai
@@ -99,11 +103,11 @@
 - degalai atpigo: vizual marketingo projektas, parodyt, kad degalų kainos dabar net mažesnės nei buvo prieš eurą
 - AI distilled bible tips / stories, paremta input turiniu – "ką jėzus pasakytų" (muhamedas? vedos?)
 - predictive wolt/bolt - push notification, pagal įpročius, iš karto pasiūlo, kad šiandien dienos pietūs X kontoroj patiks
-- vizualus vestuvių planeris: kur kas stovės, pro kur vyks procesija, kur susodinti bus...?
+- vizualus vestuvių planeris: kur kas stovės, pro kur vyks procesija, kur susodinti bus…
 - nemokamas chlamas: free mėginukai, infoturinys Lietuvoje, marketingui
 - lietuviškos reklamos agentūros, svetainės
 - 15 min miestai: kodėl tai gerai (vatnik go away)
-- žmonių žemėlapis: naudojant FB api (???? jei įmanoma ???) sudaro žemėlapį, kas su kuo tavo aplinkoje yra susiję, ir kas yra tie "konektoriai", jungiantys daugiausiai žmonių ??
+- žmonių žemėlapis: naudojant FB api (arba kitu būdu) sudaro žemėlapį, kas su kuo tavo aplinkoje yra susiję, ir kas yra tie "konektoriai", jungiantys daugiausiai žmonių ??
 - chazz stilium: miesto rajonų skonių čipsai (naujanai, paupys…)
 - Kalbėjimo treneris: duodi savo MS teams ar viešo kalbėjimo įrašą, tau pataria ką galėtum/turėtum kalbėti geriau
 - elektriniai vienkartiniai veipai turi chipus ir batarkes - jų panaudojimas? mikrotinklui? battery packui?
@@ -121,25 +125,25 @@
 - Dainos tempimo app - padaro 30 sekndž arba ir visos valandos, pagal užsakytą ilgį
 - išeik į kiemą: app vietiniam fiziniam renginiam, random pašnekėjimam jei neturi ką veikt, live-real-casual-meetup
 - asmeninio stilisto patarėjo svetainė: realaus laiko budintis personalas tiek vyrams, tiek moterims, prieinami konsultacijoms/patarimams
-- žymūs niekšeliai <- brazauskai ir smetonos, basanavičiai ir čiurlioniai vertinami gerai, bet jie irgi žmonės -- projektas atskleidžia kokias jie žmogiškas klaidas darė, kodėl ir kaip jie buvo bjaurūs (pvz pikasas buvo zjbs dailininkas, bet kaip žmogus, tai super bjaurus vampyras)
+- žymūs niekšeliai <- brazauskai ir smetonos, basanavičiai ir čiurlioniai vertinami gerai, bet jie irgi žmonės -- projektas atskleidžia kokias jie žmogiškas klaidas darė, kodėl ir kaip jie buvo bjaurūs (pvz pikasas buvo zjbs dailininkas, bet kaip žmogus, tai super bjaurus)
 - ar Lietuvos policija turi viešą API, duomenis apie įvykius? taip pat pranešimui apie įvykius?
 - AI pyzdukas: parašyk AI botukui savo idėją, o anas iš tavęs išsipyzdavos. tam, kad būtum pasiruošęs kritikai. gal automatiškai pataria kaip atsakyti į duotą kritiką (draugai visad palaiko, bet tai nėra naudinga, nes tik kritika ugdo/nukreipia(?))
 - mikro-reklamos plotai: daugiabučiuose, kavinėse -- jcdecaux, bet A3 formato, mikro vartotojų kiekis, bet netikėta ir akių lygyje
-- Tyrimų servisas - išknisa info, kurios internete nerandi (118 ?)
+- Tyrimų servisas - išknisa info, kurios internete nerandi (118 2.0?)
 - kaip apgauti bobutę: infoprojektas, apie scam internetuose ir fizinėj erdvėj, kaip apsisaugoti
 - ką darysi karo atveju protokolo pasirengimo pagalbininkas (kad būtų aišku ką darysi ekstremaliais atvejais)
-- kaip tapti politiku: infoprojektas, apie scam ir manipuliacijas politikoje
-- Solar website
+- kaip tapti apgaviku: infoprojektas, apie scam ir manipuliacijas politikoje
+- Solar website – šitas web veikia tik tol, kol yr saulės elektros (arba: kol nemiegu, kol minu dviratį, kraunantį batareiką)
 - external logging service: tiesiog persiųsk log duomenis į šį saugų serverį, mes palaikysim (tau nereikia failo arba duombazės), API
 - homebrew, bet android telefonams - su command suinstaliuoja greitai reikiamus apk
-- geriau šūds rankoj nei briedis lankoj: edukuot šunų vedžiotojus, kad supakavus šūdą į maišelį prašom tą ir išsinešt, belekur nenumest
+- geriau šūds rankoj nei briedis lankoj: edukuot šunų vedžiotojus, kad supakavus šūdą į maišelį prašom tą ir išsinešt, belekur nenumest, nes iš to dar blogiau
 - AI palydovas / patarėjas / klausytojas -- pagyvenusiems žmonėms, senukams? nors bbž ar emociškai patogu
 - google maps, bet pastatų viduj - pro kur įeiti į ofisą, žemėlapio generatorius, kad nereikėtų piešt per paintą
 - jau matyta (turinys): filtruoti internete besikartojančius dalykus
-- shit monitor: kodėl vis dar nėra išmanaus tualeto, matuojančio išmatas? gi matosi ir mitybos trūkumai, ir šiaip... šlykštu, bet vartotojui naudinga? gal? reiktų pasikonsultuot su sveikatos specialistais
-- api zmogus.lt ale generuoja tikrus asmenis, ale, duomenims pildyti
+- shit monitor: kodėl vis dar nėra išmanaus tualeto, matuojančio išmatas? gi matosi ir mitybos trūkumai. reiktų pasikonsultuot su sveikatos specialistais
+- API zmogus.lt ale generuoja tikrus asmenis, ale, duomenims pildyti
 - tvarumas mokiniams: interaktyvi programa eco mąstymui kurti
-- Lt vaizdo kameros, ne kiniškos
+- LT vaizdo kameros, ne kiniškos
 - ai scrapper buster: fake data generatorius, užspaminti X kalbos turinį fake nesąmonėm, kad AI įrankiai negalėtų pasitikėti tos kalbos turiniu
 - asmeninis CAO (aquisitions): to-buy listas, daiktų, kuriuos norėjai įsigyti, kad nepamirštum nuėjęs iki parduotuvės ar pamatęs eshope
 - GPS ping emergency radio --- koks minimaliausias įmanomas variantas, su mažiausiai elektros? saulės energija? prakaito druska?
