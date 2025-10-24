@@ -6,6 +6,9 @@ updates:
   - date: 2025-10-10
     count: 188
     diff: "-3"
+  - date: 2025-10-25
+    count: 199
+    diff: "+11"
 ---
 
 - “Kam aukoti?” – puslapis, kuriame pristatomos paramos ir kur galima kam skirti savo 1.2% + 0.6% + 0.6% GPM optimaliausiai (susiję: ROI vertinimai)
@@ -196,3 +199,14 @@ updates:
 - AI radijo laidų sync translator – klausai ir išverčia iš karto, gali klausyt bet kurio pasaulio radijo sava kalba // taip pat ir televizijai
 - Vilniaus “achievements” žemėlapis, kaip videožaidimuos: sužymėtos vietos, kur gali padaryt “achievementą” – pvz. užlipti į bokštą, paliesti vandenį, apeiti aplinkui, per X minučių numinti nuo Y iki Z. Nieko oficialaus ir komercinio, tik smagus miesto atradimas
 - gimbal laikymo prietaisas puodukams: kad kai rankos dreba, išlygintų puoduką ir neprisilaistytų ant žemės (diedukams, neįgaliems, šiaip žiopliems)
+- Kūno odos spalvos nosinaitės, ne baltos (arba gal juodos būtų įdomu?)
+- Tualeto valikliai (tie kur pakabinami ant krašto) kaip nėštumo testai: valiklis pakeičia spalvą, jei jau nėščia. Nereikia tikrinti su testais. Papildomas privalumas: nustatytų ir vyrų ligas, nes jiems irgi nėštumo testai tą gali rodyti
+- Kėdės pagal kūno formą: atėjus pirkti tave nuskenuoja 3d -> gaminama kėdė būtent pagal tavo kūno formas
+- Kėdės su šildymu ir vėsinimu, kaip mašinose, bet darbinė prie stalo
+- "AI atėmė mano darbą": kursai kaip prisitaikyti, rasti alternatyvų pašaukimą, būti vėl laimingu ir pelningu
+- "kur tas varžtas?": nukreipi kamerą, parodo kur nukrito pamestas varžtas, vinukas, adata, moneta, kiti smulkūs daiktai, kurie iškrenta iš rankų
+- Produktyvios muzikos player: parenkama pagal darbo tipą, kalbas kurias moki (kad negrotų tokios, kur suprantami žodžiai, neblaškytų)
+- Nešiok kepure: soc kampanija kodėl žiemą nešioti kepures ir šalikus taip svarbu (ir kodėl tai papildomas stiliaus privalumas)
+- AI security infoprojektas: what can be the risks and minimizing risks (panašu į įprastą security, bet AI)
+- Krizės kaip galimybė pokyčiui: infoprojektas, padėsiantis prisitaikyti
+- Personal, local, analytics aggregator for websites – neatiduok duomenų gūglui
